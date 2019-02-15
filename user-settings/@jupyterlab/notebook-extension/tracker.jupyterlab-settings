@@ -1,0 +1,15 @@
+{
+    "codeCellConfig": {
+      "lineWrap": "on",
+      "lineNumbers": true,
+      "wordWrapColumn": 100
+    },
+    "markdownCellConfig": {
+      "lineNumbers": true,
+      "wordWrapColumn": 100
+    },
+    "rawCellConfig": {
+      "lineNumbers": true,
+      "wordWrapColumn": 100
+    }
+}
